@@ -1,0 +1,15 @@
+# .gitignore
+
+db.sqlite3
+/static/
+/media/
+.env
+.env.docker
+logs/
+__pycache__/
+*.pyc
+*.log
+*.sqlite3
+venv/
+*.egg-info/
+assets/.env
